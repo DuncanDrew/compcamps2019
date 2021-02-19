@@ -60,3 +60,11 @@ body  {
   width: calc(100vw - 1000px);
   vertical-align: top;
 }
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
